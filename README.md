@@ -13,3 +13,5 @@ No license.
 ### Topstone Downtube Hatch
 CC BY-NC
 by GER776 is licensed under the Creative Commons - Attribution - Non-Commercial license.
+
+![Cannondale Topstone Frame cover](https://github.com/fabriziotappero/cannondale-topstone/blob/main/cannondale-topstone-cover.png?raw=true)
